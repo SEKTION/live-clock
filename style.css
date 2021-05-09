@@ -38,7 +38,6 @@ body {
         transform-origin:100%;
         transform: rotate(90deg);
         transition: ease-in-out .01s;
-        /* transition-timing-function: cubic-bezier(.1,2,.5,2); */
     }
     #hour-hand {
         background-color: #f00;
